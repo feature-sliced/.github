@@ -13,3 +13,4 @@
 - 🚀 [A curated list of delightful resources](https://github.com/feature-sliced/awesome)
 - 🛠 [Examples of usage](https://github.com/feature-sliced/examples)
 - 📣 [Twitter](https://twitter.com/feature_sliced)
+- 📣 [Telegram](https://t.me/feature_sliced)

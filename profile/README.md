@@ -1,3 +1,5 @@
+![fsd-banner](https://raw.githubusercontent.com/feature-sliced/documentation/master/static/img/banner.jpg)
+
 🍰 **Feature-Sliced Design (FSD)** is an architectural design methodology for *frontend applications*. It aims to [**divide an application according to business logic and scopes of responsibility**](https://feature-sliced.design/docs/concepts/app-splitting)
 
 ### Features
